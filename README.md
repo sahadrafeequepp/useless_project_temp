@@ -81,13 +81,14 @@ Open your browser and navigate to:
 ## Project Documentation
 
 ### Screenshots
-![VoiceSnooze Main App Screen](docs/screenshot1.png)
+![VoiceSnooze Main App Screen](https://github.com/sahadrafeequepp/useless_project_temp/blob/main/images/Screenshot%202026-09-04%20072210.png)
 *VoiceSnooze Mobile App UI featuring Hero Digital Clock, Multiple Alarms List, and Live Spectrum Visualizer*
 
-![Blaring Alarm Overlay](docs/screenshot2.png)
+![Blaring Alarm Overlay](https://github.com/sahadrafeequepp/useless_project_temp/blob/main/images/Screenshot%202026-09-04%20072259.png)
+(https://github.com/sahadrafeequepp/useless_project_temp/blob/main/images/Screenshot%202026-09-04%20072322.png)
 *Emergency Blaring Alarm overlay with real-time voice and groan listening*
 
-![Sleep Failure History Log](docs/screenshot3.png)
+![Sleep Failure History Log](https://github.com/sahadrafeequepp/useless_project_temp/blob/main/images/Screenshot%202026-09-04%20072400.png)
 *Sleep Victory Log recording alarms successfully defeated by whispers and bed groans*
 
 ### Workflow Diagram
